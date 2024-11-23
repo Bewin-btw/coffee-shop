@@ -1,0 +1,70 @@
+[
+    {
+        "product_id": "muffin",
+        "name": "Blueberry Muffin",
+        "description": "Freshly baked muffin with blueberries",
+        "price": 2,
+        "ingredients": [
+            {
+                "ingredient_id": "flour",
+                "quantity": 100
+            },
+            {
+                "ingredient_id": "blueberries",
+                "quantity": 20
+            },
+            {
+                "ingredient_id": "sugar",
+                "quantity": 30
+            }
+        ]
+    },
+    {
+        "product_id": "espresso",
+        "name": "Espresso",
+        "description": "Strong and bold coffee",
+        "price": 2.5,
+        "ingredients": [
+            {
+                "ingredient_id": "espresso_shot",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "product_id": "croissant",
+        "name": "Croissant",
+        "description": "French tasty croissant",
+        "price": 3,
+        "ingredients": [
+            {
+                "ingredient_id": "flour",
+                "quantity": 100
+            },
+            {
+                "ingredient_id": "blueberries",
+                "quantity": 20
+            },
+            {
+                "ingredient_id": "sugar",
+                "quantity": 30
+            }
+        ]
+    },
+    {
+        "product_id": "latte",
+        "name": "Caffe Latte",
+        "description": "Espresso with steamed milk",
+        "price": 3.5,
+        "ingredients": [
+            {
+                "ingredient_id": "espresso_shot",
+                "quantity": 1
+            },
+            {
+                "ingredient_id": "milk",
+                "quantity": 200
+            }
+        ]
+    }
+]
